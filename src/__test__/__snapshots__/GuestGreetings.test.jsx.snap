@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GuestGreeting should display guest greeting 1`] = `ShallowWrapper {}`;
